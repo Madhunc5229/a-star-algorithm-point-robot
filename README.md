@@ -21,5 +21,9 @@ Navigation of a point robot from start to goal point using Dijkstra's algorithm 
     cd/a-star-algorithm-point-robot/code  
     python3 sourceCode.py
 
-## Results
+## Action space of the robot
+
+![graph](https://user-images.githubusercontent.com/61328094/159148038-378d89f5-2444-4b4e-bcb0-99fa97043217.png)
+
+
     
