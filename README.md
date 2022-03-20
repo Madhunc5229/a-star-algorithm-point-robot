@@ -20,7 +20,7 @@ Navigation of a point robot from start to goal point using Dijkstra's algorithm 
     
     cd/a-star-algorithm-point-robot/code  
     python3 sourceCode.py
-3. Program inputs
+3.Program inputs
 
 -  clearance
 -  robot radius
