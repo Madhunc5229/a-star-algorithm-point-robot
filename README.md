@@ -32,7 +32,7 @@ Navigation of a point robot from start to goal point using Dijkstra's algorithm 
 ## A-star implementation (plottting the explored points)
 ### green color =  explored nodes
 ### red color  = robot radius + clearance
-### cyan color =  Obstalce points =
+### cyan color =  Obstalce points
 ### pink line = backtracked solution path
 
 ![astarc2c](https://user-images.githubusercontent.com/61328094/159148128-5355d0c0-4c10-43bd-857c-393ea9d6167a.png)
