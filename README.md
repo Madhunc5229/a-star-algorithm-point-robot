@@ -26,7 +26,7 @@ Navigation of a point robot from start to goal point using Dijkstra's algorithm 
 -  robot radius
 -  step size
 -  start point (x,y,angle)
--  end point (x,y,angle)
+-  end point (x,y,angle)  
 Please give step size equal to radius of the robot to obtain solution faster (eg. robot radius = 10, step size = 10)
 
 ## Action space of the robot
