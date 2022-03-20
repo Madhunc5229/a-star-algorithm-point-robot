@@ -25,5 +25,11 @@ Navigation of a point robot from start to goal point using Dijkstra's algorithm 
 
 ![graph](https://user-images.githubusercontent.com/61328094/159148038-378d89f5-2444-4b4e-bcb0-99fa97043217.png)
 
+## Obstacle space layout
+
+<img width="474" alt="layout" src="https://user-images.githubusercontent.com/61328094/159148083-d94bad84-0b68-4e9d-af2e-ec14c31e0389.png">
+
+
+
 
     
