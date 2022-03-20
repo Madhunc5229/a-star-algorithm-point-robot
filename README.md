@@ -19,7 +19,6 @@ Navigation of a point robot from start to goal point using Dijkstra's algorithm 
 2.cd into the code folder and the run the python file
     
     cd/a-star-algorithm-point-robot/code  
-    
     python3 sourceCode.py
 
 ## Results
