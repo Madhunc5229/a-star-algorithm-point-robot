@@ -216,8 +216,8 @@ def aStar(start_point,goal_point,map, C2C, C2G,totalCost,image, step_size):
                 ret, frame = cap.read()
                 if ret == True:
                     cv2.imshow('exploration',frame)
-                    if cv2.waitKey(1) & 0xFF == ord('q'):
-                        break
+                if cv2.waitKey(1) & 0xFF == ord('q'):
+                    break
             cap.release()
 
             break
